@@ -6,7 +6,7 @@ NOTES:
 
 Tasks to obtain the best model:
 
-* [ ] Basic eda
+* [x] Basic eda
 * [ ] Cross-validation
 * [ ] First training
 * [ ] Detailed eda
